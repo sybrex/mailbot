@@ -1,0 +1,9 @@
+[email]
+server = mail.mysite.com
+user = hello@mysite.com
+password = *****
+port = ****
+
+[telegram]
+token = *****
+chat = *****
